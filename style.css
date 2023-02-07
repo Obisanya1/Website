@@ -67,6 +67,7 @@ nav ul li a:hover::after{
     color: #ff004f;
 }
 #about{
+    margin-top: 7rem;
     padding: 60px;
     color: #ababab;
 }
